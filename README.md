@@ -1,6 +1,7 @@
 # Project-Euler
 Collection of PE problems.
 # Problem 1
+/* Find the sum of all the multiples of 3 or 5 below 1000. */
 
 import java.util.ArrayList;
 class Problem1 {
@@ -39,5 +40,4 @@ class Problem1 {
 	}
 }
 
-/* Find the sum of all the multiples of 3 or 5 below 1000. */
 
